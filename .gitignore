@@ -1,0 +1,13 @@
+# virtual python environment
+env
+
+# jupyter
+.ipynb_checkpoints
+
+# build output
+*egg-info
+build
+
+# cache
+__pycache__
+.pytest_cache
